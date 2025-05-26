@@ -1,4 +1,35 @@
 #EXTM3U
+#EXTINF:-1,UK: Sky Sports News
+http://nocable.cc:8080/OURTV/OURTV@4806/35241
+#EXTINF:-1,UK: SKY SPORTS F1
+http://nocable.cc:8080/OURTV/OURTV@4806/35244
+#EXTINF:-1,UK: SKY SPORTS Football
+http://ua-iptv.com:8080/zerubassman@yahoo.com/2MR879Z9PL/1001373
+#EXTINF:-1,UK: SKY SPORTS Golf
+http://nocable.cc:8080/OURTV/OURTV@4806/35240
+#EXTINF:-1,UK: SKY SPORTS Main Event
+http://nocable.cc:8080/OURTV/OURTV@4806/137720
+#EXTINF:-1,UK: SKY SPORTS Mix
+http://ua-iptv.com:8080/zerubassman@yahoo.com/2MR879Z9PL/1001376
+#EXTINF:-1,UK: SKY SPORTS Premier League
+http://ua-iptv.com:8080/zerubassman@yahoo.com/2MR879Z9PL/1001378
+#EXTINF:-1,UK: SKY SPORTS Racing
+http://ua-iptv.com:8080/zerubassman@yahoo.com/2MR879Z9PL/1001379
+#EXTINF:-1,UK: SKY SPORTS Action/NFL
+http://nocable.cc:8080/OURTV/OURTV@4806/53705
+#EXTINF:-1,UK: SKY SPORTS Arena
+http://nocable.cc:8080/OURTV/OURTV@4806/35238
+#EXTINF:-1,UK: SKY SPORTS SciFI
+http://nocable.cc:8080/OURTV/OURTV@4806/53663
+#EXTINF:-1,UK: SKY SPORTS Cricket
+http://nocable.cc:8080/OURTV/OURTV@4806/45940
+#EXTINF:-1,UK: Sky Sports Main Event
+http://vocotv.pro/revol/revol/276918
+#EXTINF:-1,UK: Sky Sports Football
+http://vocotv.pro/revol/revol/276924
+#EXTINF:-1,UK: Sky Sports Premier League
+http://vocotv.pro/revol/revol/276906
+#EXTM3U
 #EXTINF:-1,咪视通-1
 http://home.kuaidi521.com:35455/itv/3000000001000005308.m3u8
 #EXTINF:-1,咪视通-2
